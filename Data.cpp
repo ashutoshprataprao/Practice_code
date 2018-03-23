@@ -296,8 +296,5 @@ int main()
 				}
     
 			}while(ch!='7');
-	
-	
-	
 	return 0;
 }
