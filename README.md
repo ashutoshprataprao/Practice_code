@@ -1,1 +1,1 @@
-# Practice_code
+# This is Schiolarship scheme for University entrance exam Which is implemented in c++. 
